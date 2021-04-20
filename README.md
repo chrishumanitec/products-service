@@ -1,5 +1,7 @@
 # Demo products backend
 
+Fun with automation
+
 ## Overview
 
 This is a simple Node.js backend app that creates and stores hypothetical product listings. Together with [products-app](https://github.com/humanitec-tutorials/sample-app), its purpose is to demonstrate how to deploy a simple app on the [Humanitec internal developer platform](https://humanitec.com).
